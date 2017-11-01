@@ -65,6 +65,12 @@
     },
     "done": true
   },
+  "minecraft:adventure/sniper_duel": {
+    "criteria": {
+      "killed_skeleton": "2017-11-01 16:25:57 +0800"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/snow": {
     "criteria": {
       "has_snowball": "2017-10-29 22:28:20 +0800"
@@ -472,7 +478,8 @@
   "minecraft:husbandry/bred_all_animals": {
     "criteria": {
       "bred_chicken": "2017-10-29 23:17:39 +0800",
-      "bred_sheep": "2017-11-01 00:32:10 +0800"
+      "bred_sheep": "2017-11-01 00:32:10 +0800",
+      "bred_pig": "2017-11-01 19:05:14 +0800"
     },
     "done": false
   },
