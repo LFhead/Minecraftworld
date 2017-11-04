@@ -65,6 +65,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/writable_book": {
+    "criteria": {
+      "has_book": "2017-11-04 01:41:16 +0800"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/oak_wooden_slab": {
     "criteria": {
       "has_planks": "2017-10-27 15:30:12 +0800"
@@ -326,6 +332,12 @@
   "minecraft:recipes/misc/stick": {
     "criteria": {
       "has_planks": "2017-10-27 15:30:12 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/redstone_lamp": {
+    "criteria": {
+      "has_glowstone": "2017-11-04 17:47:05 +0800"
     },
     "done": true
   },
@@ -1516,6 +1528,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/bookshelf": {
+    "criteria": {
+      "has_book": "2017-11-04 01:41:16 +0800"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/fence": {
     "criteria": {
       "has_planks": "2017-10-27 15:30:12 +0800"
@@ -1959,6 +1977,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/diamond_block": {
+    "criteria": {
+      "has_at_least_9_diamond": "2017-11-04 14:55:49 +0800"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/dark_oak_boat": {
     "criteria": {
       "entered_water": "2017-10-27 15:53:36 +0800"
@@ -2100,6 +2124,18 @@
   "minecraft:recipes/food/cookie": {
     "criteria": {
       "has_cocoa": "2017-10-27 16:36:06 +0800"
+    },
+    "done": true
+  },
+  "rftools:alltheitems": {
+    "criteria": {
+      "placed_storage": "2017-11-04 01:50:21 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/diamond": {
+    "criteria": {
+      "has_the_recipe": "2017-11-04 14:55:49 +0800"
     },
     "done": true
   },
